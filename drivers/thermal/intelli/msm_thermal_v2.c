@@ -2672,4 +2672,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Praveen Chidambaram <pchidamb@codeaurora.org>");
 MODULE_AUTHOR("Paul Reioux <reioux@gmail.com>");
 MODULE_DESCRIPTION("intelligent thermal driver version 2 for Qualcomm based SOCs");
-MODULE_DESCRIPTION("originally from Qualcomm's open source repo");(struct kobject *k
+MODULE_DESCRIPTION("originally from Qualcomm's open source repo");
