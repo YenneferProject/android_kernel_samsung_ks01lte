@@ -17,6 +17,9 @@ config CPU_FREQ
 
 if CPU_FREQ
 
+config CPU_BOOST
+	bool "CPU boost on touch input events"
+
 config CPU_FREQ_TABLE
 	tristate
 
